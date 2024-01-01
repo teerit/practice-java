@@ -28,8 +28,8 @@ public class PlusMinus {
             }
         }
 
-        System.out.println(countPos/size);
-        System.out.println(countNeg/size);
-        System.out.println(countZero/size);
+        System.out.println(countPos / size);
+        System.out.println(countNeg / size);
+        System.out.println(countZero / size);
     }
 }
